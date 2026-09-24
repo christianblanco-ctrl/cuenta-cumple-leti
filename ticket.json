@@ -1,0 +1,28 @@
+{
+  "restaurante": "Taquería · Torres Adalid 1353, Narvarte Poniente",
+  "fecha": "2026-09-23",
+  "cumpleanera": "leti",
+  "propina": 0.10,
+  "comensales": [
+    {"id": "irene", "nombre": "Irene"},
+    {"id": "alex", "nombre": "Alex"},
+    {"id": "laura", "nombre": "Laura"},
+    {"id": "leti", "nombre": "Leti"},
+    {"id": "christian", "nombre": "Christian"}
+  ],
+  "items": [
+    {"id": "agua-ciel",   "nombre": "Agua Mineral Ciel",        "cantidad": 3, "precio": 48},
+    {"id": "alfalfa",     "nombre": "Agua de Alfalfa 450 ml",   "cantidad": 1, "precio": 49},
+    {"id": "manzana",     "nombre": "Agua de Manzana 950 ml",   "cantidad": 1, "precio": 64},
+    {"id": "michelada",   "nombre": "Michelada (preparado)",    "cantidad": 1, "precio": 19},
+    {"id": "coca",        "nombre": "Coca Cola 355 ml",         "cantidad": 1, "precio": 48},
+    {"id": "lengua",      "nombre": "Taco de Lengua",           "cantidad": 1, "precio": 49},
+    {"id": "suadero",     "nombre": "Taco de Suadero",          "cantidad": 5, "precio": 28},
+    {"id": "tripa",       "nombre": "Taco de Tripa (dorada)",   "cantidad": 5, "precio": 28},
+    {"id": "pastor-7",    "nombre": "Taco de Pastor (orden 7 pz)", "cantidad": 7, "precio": 28},
+    {"id": "cabeza",      "nombre": "Taco de Cabeza (maciza)",  "cantidad": 1, "precio": 28},
+    {"id": "campechano",  "nombre": "Taco Campechano",          "cantidad": 1, "precio": 28},
+    {"id": "pastor-1",    "nombre": "Taco de Pastor (suelto)",  "cantidad": 1, "precio": 28}
+  ],
+  "total_ticket": 933
+}
